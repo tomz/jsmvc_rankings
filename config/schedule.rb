@@ -19,6 +19,6 @@
 
 # Learn more: http://github.com/javan/whenever
 
-every 1.hour do
+every 1.day do
   rake 'update_stats'
 end
