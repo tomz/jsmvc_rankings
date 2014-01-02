@@ -6,7 +6,7 @@ Based on the number of people who starred the Github repositories, we get the fo
 
 ![link to the ranking app screen shot](https://raw.github.com/tomz/jsmvc_rankings/master/public/top_jsmvc_frameworks_table-2014-01-01.png)
 
-Notice that if we count the Backbone extension frameworks like Marionette(4261), Chaplin(2483), and Thorax(1098), Backbone is still #1.  But it looks like Angular is growing at a faster rate than others and should surprise the Backbone+extension total at some point.
+Notice that if we count the Backbone extension frameworks like Marionette(4261), Chaplin(2483), and Thorax(1098), Backbone is still #1.  But it looks like Angular is growing at a faster pace than others and should surpass the Backbone+extensions total at some point.
 
 I wrote this little app using Rails 4, Twitter Bootstrap, Highcharts, and MongoDB/Mongoid to track the rankings of those frameworks, see the screen shot below.
 
