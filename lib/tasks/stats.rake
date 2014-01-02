@@ -20,9 +20,11 @@ def seed_stats
     "https://github.com/facebook/react",
     "https://github.com/polymer/polymer",
     "https://github.com/spine/spine",
+    "https://github.com/chaplinjs/chaplin",
     "https://github.com/quirkey/sammy",
     "https://github.com/enyojs/enyo",
-    "https://github.com/batmanjs/batman"
+    "https://github.com/batmanjs/batman",
+    "https://github.com/walmartlabs/thorax"
   ]
 
   urls.each {|url|

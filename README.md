@@ -13,11 +13,13 @@ Based on the number of people who starred the Github repositores, we get the fol
 7. React (3688)
 8. Polymer (3108)
 9. Spine (2489)
-10. Sammy (2388)
-11. Enyo (1657)
-12. Batman (1568)
+10. Chaplin (2483)
+11. Sammy (2388)
+12. Enyo (1657)
+13. Batman (1568)
+14. Thorax (1098)
 
-Notice that if we count the Backbone extension frameworks like Marionette(4248), Chaplin(2476), and Thorax(1093), Backbone is still #1.  But it looks like Angular is growing at a faster rate than others and should surprise the Backbone+extension total at some point.
+Notice that if we count the Backbone extension frameworks like Marionette(4261), Chaplin(2483), and Thorax(1098), Backbone is still #1.  But it looks like Angular is growing at a faster rate than others and should surprise the Backbone+extension total at some point.
 
 I wrote this little app using Rails 4, Twitter Bootstrap, Highcharts, and MongoDB/Mongoid to track the rankings of those frameworks, see the screen shot below.
 
@@ -49,9 +51,11 @@ Marionette [https://github.com/marionettejs/backbone.marionette](https://github.
 React [https://github.com/facebook/react](https://github.com/facebook/react)  
 Polymer [https://github.com/polymer/polymer](https://github.com/polymer/polymer)  
 Spine [https://github.com/spine/spine](https://github.com/spine/spine)  
+Chaplin [https://github.com/chaplinjs/chaplin](https://github.com/chaplinjs/chaplin)  
 Sammy [https://github.com/quirkey/sammy](https://github.com/quirkey/sammy)  
 Enyo [https://github.com/enyojs/enyo](https://github.com/enyojs/enyo)  
 Batman [https://github.com/batmanjs/batman](https://github.com/batmanjs/batman)  
+Thorax [https://github.com/walmartlabs/thorax](https://github.com/walmartlabs/thorax)
 
 TodoMVC [http://todomvc.com/](http://todomvc.com/)
 
