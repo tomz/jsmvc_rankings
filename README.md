@@ -1,8 +1,8 @@
 ## Single Page Apps - Part1: Popular Client Side MVC Frameworks
 
-Based on the number of people who starred the Github repositores, we get the following top JavaScript client side MVC frameworks:
+Based on the number of people who starred the Github repositories, we get the following top JavaScript client side MVC frameworks:
 
-### JavaScript MVC Framwork Rankings
+### JavaScript MVC Framework Rankings
 
 1. Angular (18562)
 2. Backbone (16651)
@@ -34,7 +34,7 @@ If you are interested, feel free to clone the repo [https://github.com/tomz/jsmv
 
 The rake task can be set up as a daily cron job to collect the trending data of each framework(you can do so by running `whenever -w`)
 
-*note that the term MVC is used loosely here to include all the MV\* frameworks*
+Note that the term MVC is used loosely here to include all the MV* frameworks
 
 In part 2 to 4 of this SPA series, we will walk through building a SPA app using Backbone Marionette, Angular, and Ember.
 
