@@ -4,20 +4,20 @@ Based on the number of people who starred the Github repositories, we get the fo
 
 ### JavaScript MVC Framework Rankings
 
-1. Angular (18562)
-2. Backbone (16651)
-3. Ember (9022)
-4. Flight (4655)
-5. Knockout (4487)
-6. Marionette (4261)
-7. React (3688)
-8. Polymer (3108)
-9. Spine (2489)
-10. Chaplin (2483)
-11. Sammy (2388)
-12. Enyo (1657)
-13. Batman (1568)
-14. Thorax (1098)
+	1. Angular (18562)
+	2. Backbone (16651)
+	3. Ember (9022)
+	4. Flight (4655)
+	5. Knockout (4487)
+	6. Marionette (4261)
+	7. React (3688)
+	8. Polymer (3108)
+	9. Spine (2489)
+	10. Chaplin (2483)
+	11. Sammy (2388)
+	12. Enyo (1657)
+	13. Batman (1568)
+	14. Thorax (1098)
 
 Notice that if we count the Backbone extension frameworks like Marionette(4261), Chaplin(2483), and Thorax(1098), Backbone is still #1.  But it looks like Angular is growing at a faster rate than others and should surprise the Backbone+extension total at some point.
 
