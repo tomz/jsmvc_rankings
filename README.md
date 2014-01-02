@@ -36,7 +36,7 @@ Angular [https://github.com/angular/angular.js](https://github.com/angular/angul
 Backbone [https://github.com/jashkenas/backbone](https://github.com/jashkenas/backbone)  
 Ember [https://github.com/emberjs/ember.js](https://github.com/emberjs/ember.js)  
 Flight [https://github.com/flightjs/flight](https://github.com/flightjs/flight)  
-Knockout [https://github.com/flightjs/flight](https://github.com/knockout/knockout)  
+Knockout [https://github.com/knockout/knockout](https://github.com/knockout/knockout)  
 Marionette [https://github.com/marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette)  
 React [https://github.com/facebook/react](https://github.com/facebook/react)  
 Polymer [https://github.com/polymer/polymer](https://github.com/polymer/polymer)  
