@@ -13,7 +13,7 @@
 	<% @repositories.each_with_index { |repo, i| %>
 		<tr>
 			<td><%= i+1 %></td>
-			<td><%= repo.name %></td>
+			<td><%= repo.name.capitalize %></td>
 			<td><%= repo.stars %></td>
 			<td><%= repo.forks %></td>
 			<td><%= repo.commits %></td>
