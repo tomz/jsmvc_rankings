@@ -32,7 +32,10 @@ If you are interested, feel free to clone the repo [https://github.com/tomz/jsmv
     rake update_stats
     
 
-The rake task can be set up as a daily cron job to collect the trending data of each framework(you can do so by running `whenever -w`)
+The rake task can be set up as a daily cron job to collect the trending data of each framework(you can do so by running:
+
+    whenever -w
+
 
 Note that the term MVC is used loosely here to include all the MV* frameworks
 
