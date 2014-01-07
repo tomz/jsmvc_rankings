@@ -12,8 +12,8 @@ development:
       #hosts:
       #  - localhost:27017
       options:
-        skip_version_check: true
-        safe: true
+      #  skip_version_check: true
+      #  safe: true
         # Change the default write concern. (default = { w: 1 })
         # write:
         # w: 1
@@ -77,6 +77,6 @@ production:
   sessions:
     default:
       uri: <%= ENV['MONGOHQ_URL'] %>
-      options:
-        skip_version_check: true
-        safe: true
+      #options:
+      #  skip_version_check: true
+      #  safe: true
