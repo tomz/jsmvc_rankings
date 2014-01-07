@@ -15,7 +15,7 @@ I wrote this little app using Rails 4, Twitter Bootstrap, Highcharts, and MongoD
 If you are interested, feel free to clone the repo [https://github.com/tomz/jsmvc_rankings](https://github.com/tomz/jsmvc_rankings) and play with it, you can run the rake tasks to initialize and fetch the latest stats from github:
 
     rake seed_stats
- 
+
     rake update_stats
     
 
