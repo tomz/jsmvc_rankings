@@ -3,17 +3,16 @@ development:
   sessions:
     # Defines the default session. (required)
     default:
-      uri: <%= ENV['MONGOHQ_URL'] %>
       # Defines the name of the default database that Mongoid can connect to.
       # (required).
-      #database: jsmvc_rankings_development
+      database: jsmvc_rankings_development
       # Provides the hosts the default session can connect to. Must be an array
       # of host:port pairs. (required)
-      #hosts:
-      #  - localhost:27017
+      hosts:
+        - localhost:27017
       options:
-      #  skip_version_check: true
-      #  safe: true
+        # skip_version_check: true
+        # safe: true
         # Change the default write concern. (default = { w: 1 })
         # write:
         # w: 1
